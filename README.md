@@ -6,4 +6,9 @@
 
 Research Software Engineering (RSE) is a rapidly growing profession within the Scientific Python community, but it can present significant challenges for newcomers, particularly students who may lack the necessary skills or knowledge of the field. The aim of this poster presentation is to discuss the current challenges faced by newcomers to research software engineering, the potential solutions to make the community more inclusive, and an introduction to 'The Undergraduate's Guide To Research Software Engineering' (TUG-RSE).
 
-TUG-RSE Repository: <https://github.com/amangoel185/undergraduate-guide-to-RSE>
+- TUG-RSE Repository: <https://github.com/amangoel185/undergraduate-guide-to-RSE>
+- The Society of Research Software Engineering: <https://society-rse.org/>
+- The United States Research Software Engineer Association: <https://us-rse.org/>
+- The Software Sustainability Institute: <https://software.ac.uk/>
+- Open Life Science: <https://openlifesci.org/>
+- The Turing Way: <https://the-turing-way.netlify.app/index.html>
